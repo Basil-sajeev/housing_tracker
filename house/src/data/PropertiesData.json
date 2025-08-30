@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "Modern 2BHK Shared Flat - Manchester Metropolitan University",
+    "location": "M1 7ED, Manchester",
+    "city": "Manchester",
+    "price": 485,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "furnished": true,
+    "billsIncluded": true,
+    "available": true,
+    "images": [
+      "/src/assets/flatinterior.jpg",
+      "/src/assets/bedroom.jpeg"
+    ],
+    "description": "Spacious 2-bedroom flat perfect for students, just 5 minutes walk from MMU. Fully furnished with modern appliances, high-speed Wi-Fi, and all bills included. Shared kitchen and living area with fellow students.",
+    "amenities": [
+      "High-speed Wi-Fi",
+      "All bills included", 
+      "Fully furnished",
+      "Washing machine",
+      "Central heating",
+      "Study desks",
+      "Close to transport"
+    ],
+    "university": "Manchester Metropolitan University",
+    "walkingDistance": "5 minutes",
+    "landlord": {
+      "name": "John Smith Properties",
+      "phone": "+44 161 123 4567",
+      "email": "contact@johnsmithprops.co.uk"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Cozy Studio Apartment - King's College London",
+    "location": "SE1 9NH, London",
+    "city": "London",
+    "price": 650,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnished": true,
+    "billsIncluded": false,
+    "available": true,
+    "images": [
+      "/src/assets/bedroom.jpeg",
+      "/src/assets/flatinterior.jpg"
+    ],
+    "description": "Perfect studio for a single student near King's College. Recently renovated with modern fixtures, kitchenette, and private bathroom. Great transport links to central London.",
+    "amenities": [
+      "Private bathroom",
+      "Kitchenette",
+      "Recently renovated",
+      "24/7 security",
+      "Laundry facilities",
+      "Study area",
+      "Transport links"
+    ],
+    "university": "King's College London",
+    "walkingDistance": "10 minutes",
+    "landlord": {
+      "name": "London Student Lets",
+      "phone": "+44 20 7123 4567",
+      "email": "info@londonstudentlets.com"
+    }
+  },
+  {
+    "id": 3,
+    "title": "3BHK House Share - University of Birmingham",
+    "location": "B15 2TT, Birmingham",
+    "city": "Birmingham",
+    "price": 420,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnished": true,
+    "billsIncluded": true,
+    "available": false,
+    "images": [
+      "/src/assets/flatinterior.jpg",
+      "/src/assets/bedroom.jpeg"
+    ],
+    "description": "Large Victorian house converted for student accommodation. Your own bedroom in a 3-bed house share with spacious common areas. Perfect for university life with great housemates.",
+    "amenities": [
+      "Large common areas",
+      "Garden access",
+      "2 bathrooms",
+      "Bike storage",
+      "All bills included",
+      "Parking available",
+      "Near campus"
+    ],
+    "university": "University of Birmingham",
+    "walkingDistance": "15 minutes",
+    "landlord": {
+      "name": "Midlands Student Housing",
+      "phone": "+44 121 123 4567", 
+      "email": "bookings@midlandsstudent.co.uk"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Luxury 1BHK Apartment - University of Manchester",
+    "location": "M13 9PL, Manchester",
+    "city": "Manchester", 
+    "price": 580,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnished": true,
+    "billsIncluded": true,
+    "available": true,
+    "images": [
+      "/src/assets/bedroom.jpeg",
+      "/src/assets/flatinterior.jpg"
+    ],
+    "description": "Brand new luxury apartment in purpose-built student accommodation. Premium fixtures, ensuite bathroom, and access to communal facilities including gym and study rooms.",
+    "amenities": [
+      "Ensuite bathroom",
+      "Gym access",
+      "Study rooms",
+      "24/7 security",
+      "High-speed Wi-Fi",
+      "Air conditioning",
+      "Concierge service"
+    ],
+    "university": "University of Manchester",
+    "walkingDistance": "8 minutes",
+    "landlord": {
+      "name": "Premier Student Living",
+      "phone": "+44 161 987 6543",
+      "email": "lettings@premierstudent.co.uk"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Budget-Friendly Room - Leeds University", 
+    "location": "LS2 9JT, Leeds",
+    "city": "Leeds",
+    "price": 325,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnished": true,
+    "billsIncluded": true,
+    "available": true,
+    "images": [
+      "/src/assets/bedroom.jpeg",
+      "/src/assets/flatinterior.jpg"
+    ],
+    "description": "Affordable student accommodation perfect for budget-conscious students. Clean, safe, and friendly environment with all essential amenities included.",
+    "amenities": [
+      "Shared kitchen",
+      "Common room",
+      "Study areas",
+      "Laundry facilities",
+      "All bills included",
+      "Security entry",
+      "Near campus"
+    ],
+    "university": "University of Leeds",
+    "walkingDistance": "12 minutes",
+    "landlord": {
+      "name": "Affordable Student Homes",
+      "phone": "+44 113 123 4567",
+      "email": "info@affordablestudent.co.uk"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Premium 2BHK Penthouse - University College London",
+    "location": "WC1E 6BT, London", 
+    "city": "London",
+    "price": 875,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnished": true,
+    "billsIncluded": false,
+    "available": true,
+    "images": [
+      "/src/assets/flatinterior.jpg",
+      "/src/assets/bedroom.jpeg"
+    ],
+    "description": "Stunning penthouse apartment in the heart of London, perfect for postgraduate students or professionals. Floor-to-ceiling windows with city views and premium finishes throughout.",
+    "amenities": [
+      "City views",
+      "2 bathrooms",
+      "Premium finishes",
+      "Balcony access",
+      "Concierge",
+      "Underground parking",
+      "Central location"
+    ],
+    "university": "University College London",
+    "walkingDistance": "5 minutes",
+    "landlord": {
+      "name": "Elite London Properties",
+      "phone": "+44 20 7987 6543",
+      "email": "luxury@elitelondon.co.uk"
+    }
+  }
+]
